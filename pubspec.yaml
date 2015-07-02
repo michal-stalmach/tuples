@@ -1,0 +1,12 @@
+name: tuples
+description: Tuples for Dart.
+version: 1.0.0
+author: Michał Stalmach <michal.stalmach.84@gmail.com>
+#homepage: https://www.example.com
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  quiver: any
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
+  benchmark_harness: ">=1.0.0 <2.0.0"
