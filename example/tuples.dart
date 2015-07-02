@@ -5,7 +5,7 @@ library tuples.example;
 
 import 'package:tuples/tuples.dart';
 
-main() {
+void main() {
     Tuple t1 = newTuple(1, 'a', {});
 
     print(t1); // outputs: <1, a, {}>
